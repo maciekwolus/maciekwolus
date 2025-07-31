@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💼 Currently working as an **ETL Developer** at Bluesoft where I try to make pipelines more transparent and efficient. Used to work in Talend Studio, but had to change it to a scalable Python-based ETL framework (written by me and my colleagues) that replaced Talend workflows, significantly reducing licensing costs and improving performance and maintainability. In addition, I create various dedicated Python scripts, write procedures and views in SQL and I collaborated with business analysts to define data mapping specifications and subsequently implemented them in ETL processes.
+
+🎓 I graduated from the Warsaw University of Technology, writing two theses along the way:
+- during my engineering studies: Recognition of skinbones' fractures on the basis on X-ray images
+- during my master's studies: Comparison of U-Net and SegFormer Models in Tooth Recognition on Panoramic Radiographs of the Oral Cavity
+
+⚽ Outside of work, I’m all about football, data, and — ideally — data in football. I also love to travel and explore new places whenever I get the chance.
